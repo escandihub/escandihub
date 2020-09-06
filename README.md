@@ -7,4 +7,3 @@
 - 📫 How to reach me: xcandon@icloud.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love listen hard core music 😈
--->
