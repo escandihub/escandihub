@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**escandihub/escandihub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi  👋
+### I'm Alejandro 
 
 - 🔭 I’m currently working on Pofile webSite
 - 🌱 I’m currently learning advanced Laravel skill.
