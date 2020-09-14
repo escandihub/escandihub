@@ -1,5 +1,4 @@
-### Hi  👋
-### I'm Alejandro 
+# Hello, I'm Alex 👋
 
 - 🔭 I’m currently working on Pofile webSite
 - 🌱 I’m currently learning advanced Laravel skill.
