@@ -1,7 +1,8 @@
 # Hello, I'm Alex 👋
 
+<div align="center">
 <img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47nxdm0kuaxnq2nr5dlnx2gacw7avu7bdmydbkvtiz&rid=giphy.gif" width="230" />
-
+</div>
 Hi, I'm Web Developer, building a skill on the Back Side, i like learn about new thecnologies and hacks to improve my developer skills. 🔥
 
 - 🔭 I’m currently working on Pofile webSite
