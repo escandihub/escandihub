@@ -1,5 +1,7 @@
 # Hello, I'm Alex 👋
 
+Hi, I'm Web Developer, building a skill on the Back Side, i like learn about new thecnologies and hacks to improve my developer skills. 🔥
+
 - 🔭 I’m currently working on Pofile webSite
 - 🌱 I’m currently learning advanced Laravel skill.
 - 💬 Ask me about you want
