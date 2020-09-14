@@ -1,7 +1,7 @@
 # Hello, I'm Alex 👋
 
 
-<img align='center' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47nxdm0kuaxnq2nr5dlnx2gacw7avu7bdmydbkvtiz&rid=giphy.gif" height="250px" />
+<img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47nxdm0kuaxnq2nr5dlnx2gacw7avu7bdmydbkvtiz&rid=giphy.gif" height="250px" />
 
 Hi, I'm Web Developer, building a skill on the Back Side, i like learn about new thecnologies and hacks to improve my developer skills. 🔥
 
