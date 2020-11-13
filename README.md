@@ -6,9 +6,8 @@
 
 Hi, I'm Web Developer, building a skill on the Back Side, i like learn about new thecnologies and hacks to improve my developer skills. 🔥
 
-- 🔭 I’m currently working on Ionic app with SQLite
-- 🌱 I’m currently learning advanced Laravel skill.
-- 💬 Ask me about you want
+- 🔭 I’m currently working on Laravel and Vue proyect 
+- 💬 Ask me about you state management
 - 📫 How to reach me: xcandon@icloud.com
 - ⚡ Fun fact: i love listen hard core music 😈
 
