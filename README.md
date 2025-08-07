@@ -4,10 +4,11 @@
 
 <img align='right' src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47nxdm0kuaxnq2nr5dlnx2gacw7avu7bdmydbkvtiz&rid=giphy.gif" width="270" />
 
-Hi, I'm Web Developer, building a skill on the Back Side, i like learn about new thecnologies and hacks to improve my developer skills. 🔥
+Hi, I'm Full Stack Developer, i prefer Back Side, i like learn new things and hacks to improve my developer skills to make greate thinks. 🔥
 
-- 🔭 I’m currently working on Laravel and Vue proyect 
-- 💬 Ask me about you state management
+- 🔭 I’m currently working over API's
+- Working making native cross plataform
+- 💬 Ask me about your continuis integration.
 - 📫 How to reach me: xcandon@icloud.com
 - ⚡ Fun fact: i love listen hard core music 😈
 
