@@ -6,12 +6,12 @@
 
 Hi, I'm Full Stack Developer, i prefer Back Side, i like learn new things and hacks to improve my developer skills to make greate thinks. 🔥
 
-- 🔭 I’m currently working over API's and Apps
-- Working making native cross plataform
-- making greate integration with jenkins 
-- 💬 Ask me about your continuis integration.
-- 📫 How to reach me: xcandon@icloud.com
-- ⚡ Fun fact: i love listen hard core music 😈
+- 🔭 I’m currently working over SSR and web interfaces
+- creating native cross plataform
+- CI/CD w/ jenkins
+- Ask me about how can you conteinerization your stack
+- 📫 How to reach me: aleskndon@gmail.com
+- ⚡ Fun fact: i love low key music from my country
 
 <h3>Things I code with</h3>
 
