@@ -8,10 +8,12 @@ Hi, I'm Full Stack Developer, i prefer Back Side, i like learn new things and ha
 
 - 🔭 I’m currently working over SSR and web interfaces
 - creating native cross plataform
+- learning RAG
+- implementing stack about CI AND CD
 - CI/CD w/ jenkins
 - Ask me about how can you conteinerization your stack
 - 📫 How to reach me: aleskndon@gmail.com
-- ⚡ Fun fact: i love low key music from my country
+- ⚡ Fun fact: i falling in emergent mexican **guaracha** _music_
 
 <h3>Things I code with</h3>
 
